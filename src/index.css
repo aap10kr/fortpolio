@@ -1,3 +1,7 @@
+*{
+	font-family: 'Pretendard'!important;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
