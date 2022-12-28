@@ -6,18 +6,18 @@ function footer() {
       <section>
         <div className='flex justify-center mb-4'>
           <a href='https://www.instagram.com/sin_eeeeeeeee/'> 
-            <img src='../../img/Instagram.png' alt=''/>
+            <img src='../../img/Instagram.png' alt='' className='w-10'/>
           </a>
           <a href='https://github.com/aap10kr'>
-            <img src='../../img/Github.png' alt=''/>
+            <img src='../../img/Github.png' alt='' className='w-10'/>
           </a>
           <a href='https://www.facebook.com/profile.php?id=100004372328818'>
-            <img src='../../img/Facebook.png' alt=''/>
+            <img src='../../img/Facebook.png' alt='' className='w-10'/>
           </a>
         </div>
       </section>
       <section className='flex justify-center w-full'>
-        <span className='text-white text-xl'>© 2022. Lee Jae Sin. All rights reserved.</span>
+        <span className='text-white text-sm xl:text-xl'>© 2022. Lee Jae Sin. All rights reserved.</span>
       </section>
     </div>
   );

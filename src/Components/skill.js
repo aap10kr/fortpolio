@@ -10,18 +10,18 @@ function skill(props) {
         </Link>
         <h1 className='text-5xl font-bold tracking-tighter pt-16'>Skills</h1>
       </section>
-      <section className='grid grid-cols-3 gap-2 pb-20'>
-        <div className='m-auto p-4 rounded-xl drop-shadow-lg bg-white'>
+      <section className='grid xl:grid-cols-3 gap-2 pb-20'>
+        <div className='m-auto p-4 rounded-xl drop-shadow-lg mb-5 xl:mb-0 bg-white'>
           <h1 className='text-2xl pb-2 border-b-2 font-bold text-orange-400'>Frontend</h1>
           <img src='../../img/frontend.png' alt=''/>
         </div>
         <div className='m-auto my-0'>
           <div className=''>
-            <div className='m-auto p-4 rounded-xl drop-shadow-lg bg-white mb-28'>
+            <div className='m-auto p-4 rounded-xl drop-shadow-lg bg-white mb-7 xl:mb-28'>
               <h1 className='text-2xl pb-2 border-b-2 font-bold text-orange-400'>Deployment</h1>
               <img src='../../img/deployment.png' alt=''/>
             </div>
-            <div className='m-auto p-4 rounded-xl drop-shadow-lg bg-white'>
+            <div className='m-auto p-4 rounded-xl drop-shadow-lg bg-white mb-5 xl:mb-0'>
               <h1 className='text-2xl pb-2 border-b-2 font-bold text-orange-400'>Version Control</h1>
               <img src='../../img/versioncontrol.png' alt=''/>
             </div>
@@ -29,7 +29,7 @@ function skill(props) {
         </div>
         <div className='m-auto my-0'>
           <div className=''>
-            <div className='m-auto p-4 rounded-xl drop-shadow-lg bg-white mb-28'>
+            <div className='m-auto p-4 rounded-xl drop-shadow-lg bg-white mb-7 xl:mb-28'>
               <h1 className='text-2xl pb-2 border-b-2 font-bold text-orange-400'>Communication</h1>
               <img src='../../img/communication.png' alt=''/>
             </div>

@@ -10,7 +10,7 @@ function about(props) {
         </Link>
           <h1 className='text-5xl font-bold tracking-tighter pt-16'>ABOUT ME</h1>
       </section>
-      <section class="grid grid-cols-3 gap-4 gap-y-8 mb-20">
+      <section class="grid xl:grid-cols-3 gap-4 gap-y-8 mb-20">
         <div className='m-auto'>
           <img src='../../img/user.png' alt='' className='w-10 h-10 m-auto mb-2'/>
           <div >
