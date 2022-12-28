@@ -13,7 +13,7 @@ function career(props) {
       <section className='bg-white rounded-lg px-5 py-10 xl:py-16'>
         <div className='xl:flex w-full'>
           <div className='flex justify-center xl:justify-end w-1/3 xl:border-r-2 mb-4 xl:mb-0'>
-            <div className='w-16 h-16 rounded-full border-2 ml-5 xl:mr-10 overflow-hidden'>
+            <div className='w-16 h-16 xl:w-44 xl:h-44 rounded-full border-2 ml-5 xl:mr-10 overflow-hidden'>
               <img src='../../img/gayou1.jpg' alt=''/>
             </div>
           </div>

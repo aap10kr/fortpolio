@@ -45,7 +45,7 @@ function project(props) {
               <p className='leading-6'>
                 가유 커넥트의 기사모집 랜딩페이지 입니다. <br/>
                 HTML, CSS를 사용하여 기본적인 틀을 잡아주고 <br/>
-                JAVASCRIPT를 사용하여 정적인 페이지가 정적으로 동작하도록 <br/>
+                JAVASCRIPT를 사용하여 정적인 페이지가 동적으로 동작하도록 <br/>
                 fade in, fade out, scroll값을 이용해 opacity에 변화를 주어 <br/>
                 동적인 웹사이트를 제작 하였습니다. <br/>
                 입사후 첫 프로젝트 였으며 시멘틱마크업, 크로스브라우징 <br/> 
@@ -229,7 +229,7 @@ function project(props) {
             <div className='xl:w-1/2 xl:pt-0 pt-10 xl:text-base xl:leading-6 xl:pl-10'>
               <p className='leading-6'>
                 회사에서 제작중인 대형프로젝트이며 입사후 개발팀에 들어가 <br/>
-                1년이 가까운 시간동안 작업중이며 현재 80% 제작이 진행중입니다. <br/>
+                1년에 가까운 기간동안 작업중이며 현재 80% 제작이 진행중입니다. <br/>
                 프론트 엔드 및 마크업 작업을 담당해 작업을 진행했으며 <br/>
                 기획자와 사수 개발자를 통해 작업을 진행해 왔습니다 <br/>
                 자세한 사항은 보안상의 이유로 맏씀드릴 수 없는점 죄송합니다. <br/>

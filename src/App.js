@@ -69,8 +69,8 @@ function App() {
       <div className='bg-neutral-800'>
         <Footer />
       </div>
-      <div className="flex justify-center items-center fixed bottom-4 right-4 w-8 h-8 z-40 rounded-full border-2 border-gray-500 bg-gray-200">
-            <button id="top" onClick={scrollToTop} type="button" className="w-8 h-8 font-bold text-xs xl:text-base text-gray-500">Top</button>
+      <div className="flex justify-center items-center fixed bottom-4 right-4 w-8 h-8 xl:w-10 xl:h-10 z-40 rounded-full border-2 border-gray-500 bg-gray-200">
+            <button id="top" onClick={scrollToTop} type="button" className="w-8 h-8 xl:w-10 xl:h-10 font-bold text-xs xl:text-base text-gray-500">Top</button>
         </div>
     </div>
   );
