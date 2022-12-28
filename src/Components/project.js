@@ -59,20 +59,20 @@ function project(props) {
               <div className='mt-10 border-t-2 pt-6'>
                 <div className='flex'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>주요기능</h1>
-                  <p className='text-sm xl:text-base ml-8'>
+                  <p className='text-xs xl:text-base ml-8'>
                     반응형 랜딩페이지 입력폼에 정보를 담아 이메일로 전송하기<br/>
                     밎 자바스크립트를 이용한 각종 기능
                   </p>
                 </div>
                 <div className='flex py-4'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>URL</h1>
-                    <a href='https://www.82gayou.com' className='ml-8 text-blue-600 text-sm xl:text-base' target="blank">
+                    <a href='https://www.82gayou.com' className='ml-2 xl:ml-8 text-blue-600 text-xs xl:text-base' target="blank">
                       https://www.82gayou.com
                     </a>
                   </div>
                 <div className='flex'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>Frontend</h1>
-                    <p className='text-sm xl:text-base ml-8'>
+                    <p className='text-xs xl:text-base ml-2 xl:ml-8'>
                       HTML, CSS, JAVASCRIPT
                     </p>
                   </div>
@@ -119,7 +119,7 @@ function project(props) {
               <div className='mt-10 border-t-2 pt-6'>
                 <div className='flex'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>주요기능</h1>
-                  <p className='text-sm xl:text-base ml-8'>
+                  <p className='text-xs xl:text-base ml-10 xl:ml-8'>
                     입력폼에 정보를 담아 이메일로 전송하기<br/>
                     카카오 지도에 설치 현황 표기 및 시간 알림기능<br/>
                     밎 자바스크립트를 이용한 각종 기능
@@ -127,19 +127,19 @@ function project(props) {
                 </div>
                 <div className='flex py-4'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>URL</h1>
-                    <a href='https://1percent-ticket.com/' className='ml-8 text-blue-600 text-sm xl:text-base' target="blank">
+                    <a href='https://1percent-ticket.com/' className='ml-8 text-blue-600 text-xs xl:text-base' target="blank">
                     https://1percent-ticket.com
                     </a>
                   </div>
                 <div className='flex'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>Frontend</h1>
-                    <p className='text-sm xl:text-base ml-8'>
+                    <p className='text-xs xl:text-base ml-8'>
                       HTML, CSS, JAVASCRIPT
                     </p>
                 </div>
                 <div className='flex pt-3'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>Backend</h1>
-                    <p className='text-sm xl:text-base ml-8'>
+                    <p className='text-xs xl:text-base ml-8'>
                       PHP
                     </p>
                 </div>
@@ -192,13 +192,13 @@ function project(props) {
                 </div>
                 <div className='flex py-4'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>URL</h1>
-                    <a href='/' className='ml-8 text-blue-600' target="blank">
-                      https://www.tasu.com<span className='ml-2 text-gray-600'>(예정)</span>
+                    <a href='/' className='ml-3 xl:ml-8 text-xs xl:text-base text-blue-600' target="blank">
+                      https://www.tasu.com<span className='ml-2 text-xs xl:text-base text-gray-600'>(예정)</span>
                     </a>
                   </div>
                 <div className='flex'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>Frontend</h1>
-                    <p className='text-sm xl:text-base ml-8'>
+                    <p className='text-xs xl:text-base ml-8'>
                       HTML, CSS, JAVASCRIPT, REACT, TAILWIND
                     </p>
                   </div>
@@ -245,7 +245,7 @@ function project(props) {
               <div className='mt-10 border-t-2 pt-6'>
                 <div className='flex'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>주요기능</h1>
-                  <p className='ml-6 xl:ml-8'>
+                  <p className='ml-6 text-xs xl:text-base xl:ml-8'>
                     딜리온에 있는 기능을 밴치마킹해 제작<br/>
                     원래있던 기능 뿐만 아니라 가유에 필요한 신기능 개발
                   </p>
@@ -253,17 +253,17 @@ function project(props) {
                 <div className='flex py-4'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>URL</h1>
                   <div className='grid grid-cols-1'>
-                    <a href='https://shop.gayou.kr' className='ml-8 text-blue-600 text-sm xl:text-base' target="blank">
+                    <a href='https://shop.gayou.kr' className='ml-2 xl:ml-8 text-blue-600 text-xs xl:text-base' target="blank">
                       https://shop.gayou.kr
                     </a>
-                    <a href='https://admin.gayou.kr' className='ml-8 text-blue-600 text-sm xl:text-base' target="blank">
+                    <a href='https://admin.gayou.kr' className='ml-2 xl:ml-8 text-blue-600 text-xs xl:text-base' target="blank">
                       https://admin.gayou.kr
                     </a>
                   </div>
                 </div>
                 <div className='flex'>
                   <h1 className='w-20 text-sm xl:text-lg font-bold'>Frontend</h1>
-                    <p className='ml-8 text-sm xl:text-base'>
+                    <p className='ml-8 text-xs xl:text-base'>
                       HTML, CSS, JAVASCRIPT, SVELTE, TAILWIND
                     </p>
                   </div>
