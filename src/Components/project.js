@@ -157,13 +157,10 @@ function project(props) {
             <div className='xl:w-1/2'>
               <Slider {...settings}>
                 <div>
-                  <img src='../../img/bike.png' alt=''/>
+                  <img src='../../img/bike1.png' alt=''/>
                 </div>
                 <div>
-                  <img src='../../img/bike.png' alt=''/>
-                </div>
-                <div>
-                  <img src='../../img/bike.png' alt=''/>
+                  <img src='../../img/bike2.png' alt=''/>
                 </div>
               </Slider>
             </div>
@@ -177,7 +174,7 @@ function project(props) {
                 사용자가 원하는 년도를 선택하면 해당 년도 데이터를 받아오는 작업을 하여 <br/> 
                 현재 ui작업만 남겨둔 상태 입니다 <br/>
               </p>
-              <a href='https://github.com/aap10kr/Bike/tree/master' target="blank">
+              <a href='https://github.com/aap10kr/Tashu' target="blank">
                 <button className='bg-neutral-800 rounded-lg px-4 py-2 mt-12'>
                   <p className='text-white'>소스코드 보기 GITHUB</p>
                 </button>
